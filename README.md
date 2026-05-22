@@ -14,7 +14,7 @@ The methodologies here were successfully implemented to achieve a **1400% increa
 
 ---
 
-##  Veri Görselleştirme & İş Zekası (Looker Studio)
+## 📊 Veri Görselleştirme & İş Zekası (Looker Studio)
 
 Projenin otomasyon çıktısı, daha rahat stratejik kararlar alabilmek ve üst yönetime sunum hazırlayabilmek adına **Google Looker Studio** paneline entegre edilmiştir.
 
